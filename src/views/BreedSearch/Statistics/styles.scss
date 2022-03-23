@@ -1,0 +1,14 @@
+.container {
+  opacity: 1;
+  transition: opacity 0.3s;
+  max-width: 100%;
+
+  @media (min-width: 48em) {
+    max-width: 60%;
+  }
+}
+
+.container-hidden {
+  composes: container;
+  opacity: 0;
+}

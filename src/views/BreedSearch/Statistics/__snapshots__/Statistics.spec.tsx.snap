@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breed Statistics renders properly with filter 1`] = `
+<div
+  className="container"
+>
+  <div>
+    Most
+     Intelligent cat breed
+    
+    : 
+    Aaa
+    , with intelligence of 
+    1
+  </div>
+  <div>
+    Least
+     Intelligent cat breed
+    
+    : 
+    Aaa
+    , with intelligence of 
+    1
+  </div>
+</div>
+`;
+
+exports[`Breed Statistics renders properly without filter 1`] = `
+<div
+  className="container"
+>
+  <div>
+    Most
+     Intelligent cat breed
+    s
+    : 
+    Ccc, Ddd
+    , with intelligence of 
+    2
+  </div>
+  <div>
+    Least
+     Intelligent cat breed
+    s
+    : 
+    Aaa, Bbb
+    , with intelligence of 
+    1
+  </div>
+</div>
+`;

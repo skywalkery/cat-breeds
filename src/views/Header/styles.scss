@@ -1,0 +1,24 @@
+header {
+  --header-bg: #fff;
+
+  position: relative;
+  box-shadow: 0 1px 3px rgb(77 71 81 / 20%);
+  background-color: var(--header-bg);
+  height: var(--header-height);
+
+  > div {
+    height: 100%;
+    max-width: 144rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5rem;
+    margin: 0 auto;
+
+    > img {
+      width: 6rem;
+      height: 6rem;
+      border-radius: 50%;
+    }
+  }
+}

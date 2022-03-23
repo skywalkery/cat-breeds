@@ -1,0 +1,11 @@
+.container {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid hsl(0, 0%, 80%);
+  font-size: 2.4rem;
+  transition: border-color 100ms;
+
+  &:hover {
+    border-color: hsl(0, 0%, 70%);
+  }
+}

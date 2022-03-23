@@ -1,0 +1,10 @@
+.container {
+  min-height: calc(100vh - var(--header-height));
+  position: relative;
+}
+
+.loader {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+}

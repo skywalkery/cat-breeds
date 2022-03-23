@@ -1,0 +1,504 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breed Snippet renders properly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="imgWrapper"
+  >
+    <img
+      alt="Cat img"
+      src="/img.jpg"
+    />
+    <div
+      className="titles"
+    >
+      <span
+        className="name"
+      >
+        Aaa
+      </span>
+      <div>
+        <span>
+          Energy Level: 
+        </span>
+        <span
+          style={
+            Object {
+              "direction": "ltr",
+              "display": "inline-block",
+            }
+          }
+        >
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+        </span>
+      </div>
+      <div>
+        <span>
+          Intelligence: 
+        </span>
+        <span
+          style={
+            Object {
+              "direction": "ltr",
+              "display": "inline-block",
+            }
+          }
+        >
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "visibility": "hidden",
+                }
+              }
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "100%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+          <span
+            onClick={[Function]}
+            onMouseMove={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            style={
+              Object {
+                "cursor": "inherit",
+                "display": "inline-block",
+                "position": "relative",
+              }
+            }
+          >
+            <span
+              style={Object {}}
+            >
+              <img
+                alt="Empty icon"
+                className="icon"
+                src="/static/icons/paw-empty.png"
+              />
+            </span>
+            <span
+              style={
+                Object {
+                  "display": "inline-block",
+                  "left": 0,
+                  "overflow": "hidden",
+                  "position": "absolute",
+                  "top": 0,
+                  "width": "0%",
+                }
+              }
+            >
+              <img
+                alt="Fill icon"
+                className="icon"
+                src="/static/icons/paw-fill.png"
+              />
+            </span>
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="description"
+  >
+    Lorem iprum dolorem
+  </div>
+</div>
+`;

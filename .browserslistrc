@@ -1,0 +1,12 @@
+# Browsers that we support
+
+> 1% in alt-EU and not dead
+last 2 Android versions
+last 2 Chrome versions
+last 2 and_chr versions
+last 2 ios_saf versions
+last 2 Edge versions
+last 2 Firefox versions
+last 2 and_ff versions
+last 2 Safari versions
+node >= 10.15

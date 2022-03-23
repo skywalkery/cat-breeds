@@ -1,0 +1,9 @@
+footer {
+  --footer-bg: #4a4542;
+  --footer-color: #fff;
+
+  height: 22rem;
+  background: var(--footer-bg);
+  color: var(--footer-color);
+  padding: 4rem 1rem;
+}

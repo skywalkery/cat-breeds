@@ -1,0 +1,30 @@
+# Declare files that will always have CRLF line endings on checkout.
+* text eol=lf
+
+## GRAPHICS
+*.mp4 binary
+*.ai   binary
+*.bmp  binary
+*.eps  binary
+*.gif  binary
+*.ico  binary
+*.jng  binary
+*.jp2  binary
+*.jpg  binary
+*.jpeg binary
+*.jpx  binary
+*.jxr  binary
+*.pdf  binary
+*.png  binary
+*.psb  binary
+*.psd  binary
+*.svg  text
+*.svgz binary
+*.tif  binary
+*.tiff binary
+*.wbmp binary
+*.webp binary
+
+## FONTS
+*.woff binary
+*.woff2 binary

@@ -1,0 +1,63 @@
+{
+  "root": true,
+  "parser": "@babel/eslint-parser",
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true
+  },
+  "extends": ["airbnb", "prettier", "plugin:jest/recommended"],
+  "rules": {
+    "arrow-body-style": 0,
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-filename-extension": [
+      1,
+      { "extensions": [".js", ".jsx", ".tsx"] }
+    ],
+    "react/destructuring-assignment": 0,
+    "no-nested-ternary": [0],
+    "no-underscore-dangle": ["error", { "allow": ["__"] }],
+    "no-unused-expressions": 0,
+    "no-plusplus": 0,
+    "no-restricted-globals": 0,
+    "camelcase": 0,
+    "jsx-a11y/click-events-have-key-events": 0,
+    "import/no-named-as-default": 0,
+    "import/extensions": 0,
+    "babel/camelcase": 0,
+    "babel/no-unused-expressions": 0,
+    "react/jsx-props-no-spreading": 0,
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn"
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-module": {}
+    }
+  },
+  "plugins": ["@babel", "react-hooks"],
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+      "rules": {
+        "no-undef": 0,
+        "no-unused-vars": 0,
+        "react/prop-types": 0
+      }
+    },
+    {
+      "files": ["*.stories.tsx"],
+      "rules": {
+        "import/no-extraneous-dependencies": [
+          "error",
+          {
+            "devDependencies": true,
+            "optionalDependencies": false,
+            "peerDependencies": false,
+            "bundledDependencies": true
+          }
+        ]
+      }
+    }
+  ]
+}
